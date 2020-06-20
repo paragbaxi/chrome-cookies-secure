@@ -114,6 +114,6 @@ The SQLite database that Google Chrome stores its cookies is only persisted to e
 
 ## License
 
-This software is free to use under the MIT license. See the [LICENSE file][] for license text and copyright information.
+See the [LICENSE file][] for license text and copyright information.
 
-[LICENSE file]: https://github.com/bertrandom/chrome-cookies-secure/blob/master/LICENSE.md
+[LICENSE file]: https://github.com/paragbaxi/chrome-cookies-secure/blob/master/LICENSE.md
