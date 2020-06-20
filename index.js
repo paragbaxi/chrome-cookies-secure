@@ -1,6 +1,7 @@
 /*
  * Copyright (c) 2015, Yahoo! Inc.  All rights reserved.
- * Copyrights licensed under the MIT License.
+ * Copyright (c) 2020, Parag Baxi. All rights reserved.
+ * Copyrights licensed under the AGPLv3 License.
  * See the accompanying LICENSE file for terms.
  */
 
